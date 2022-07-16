@@ -1,0 +1,4 @@
+capstone == 4.0.2
+discord_ui == 5.1.6
+keystone_engine == 0.9.2
+py_cord == 1.7.3
